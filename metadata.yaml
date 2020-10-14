@@ -1,0 +1,25 @@
+_repo: The-Members-of-the-Established-Church-Vindicated-from-certain-charges-direct-or-implied-in-a-__63330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Geary, William
+    gutenberg_agent_id: '52379'
+    url: http://www.gutenberg.org/2009/agents/52379
+description: ''
+gutenberg_issued: '2020-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church and education -- England'
+- GITenberg
+title: 'The Members of the Established Church Vindicated
+
+  from certain charges, direct or implied, in a letter addressed to them by the Rev.
+  John Alexander, on the subject of Infant Education'
+url: http://www.gutenberg.org/ebooks/63330
